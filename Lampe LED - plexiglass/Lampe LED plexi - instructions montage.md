@@ -8,4 +8,4 @@
 ## machines 
  - découpe laser
 
-![axes machines] ( ./images/LED-A.JPG)
+![axes machines] ( /images/LED-A.JPG)
